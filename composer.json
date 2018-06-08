@@ -1,5 +1,5 @@
 {
-    "name": "kptive/payment-sips-bundle",
+    "name": "2brito/payment-sips-bundle-sf4",
     "type": "symfony-bundle",
     "description": "Payment Bundle providing access to the ATOS SIPS solution",
     "keywords": ["payment", "atos", "sips", "mercanet", "cyberplus", "elysnet", "scellius","sogenactif", "webaffaires", "sherlocks", "citelis", "accord"],
