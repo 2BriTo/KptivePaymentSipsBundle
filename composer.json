@@ -26,6 +26,7 @@
     "autoload": {
         "psr-4": { "Kptive\\PaymentSipsBundle\\": "" }
     },
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "vcs",
